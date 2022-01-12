@@ -8,3 +8,5 @@ For this project, we created a data frame of potential vacation destinations bas
 - Google API
 - OpenWeather API
 
+## Results Based on Customer Search
+<img src = "Vacation_Itinerary/WeatherPy_travel_map_markers.png" width = 500>
